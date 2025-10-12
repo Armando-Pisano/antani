@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2025 Canadian Super DIRT Weekend at Cornwall Motor Speedway - 2025 Canadian Super DIRT Weekend at Cornwall Motor Speedway" tvg-name="22:00 2025 Canadian Super DIRT Weekend at Cornwall Motor Speedway - 12/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-69.php
+
+#EXTINF:-1 tvg-id="GCW - Fight Club 2025, Night 2" tvg-name="23:00 GCW: Fight Club 2025, Night 2 - 12/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-76.php
+
+#EXTINF:-1 tvg-id="TNA - Bound for Glory 2025" tvg-name="01:00 TNA: Bound for Glory 2025 - 12/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-86.php
+
 #EXTINF:-1 tvg-id="Slovakia - 2. Futbalová Liga - Petržalka akadémia vs Inter Bratislava" tvg-name="10:30 Slovakia - 2. Futbalová Liga : Petržalka akadémia vs Inter Bratislava - 12/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTVS Sport Slovakia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
 
@@ -1439,7 +1448,7 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-878.php
 #EXTINF:-1 tvg-id="Golden Trail Ledro Sky Trentino | Day 2 - Golden Trail Ledro Sky Trentino | Day 2" tvg-name="12:00 Golden Trail Ledro Sky Trentino | Day 2 - 12/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", EuroSport 1 Greece
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-41.php
 
-#EXTINF:-1 tvg-id="179 - 45 Chicago Marathon '25" tvg-name="08:27 179:45 Chicago Marathon '25 - 12/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", SuperSport Variety 3
+#EXTINF:-1 tvg-id="179 - 45 Chicago Marathon '25" tvg-name="18:30 179:45 Chicago Marathon '25 - 12/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", SuperSport Variety 3
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-418.php
 
 #EXTINF:-1 tvg-id="AFL Women - St Kilda W vs Collingwood Magpies W" tvg-name="06:05 AFL Women : St Kilda W vs Collingwood Magpies W - 12/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Aussie Rules (Afl)", Fox Soccer Plus
